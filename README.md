@@ -18,3 +18,5 @@ quick sort,
 singly linked list,
 stack notation,
 stack operation,
+Binary search ,
+Breadth first search 
